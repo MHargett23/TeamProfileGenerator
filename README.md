@@ -33,4 +33,4 @@ A software engineering team generator command line application. The application 
   <li>School</li>
  </ul>
   
-[screen shot of app](./imgs/image.png)
+![screen shot of app](./imgs/image.png)
