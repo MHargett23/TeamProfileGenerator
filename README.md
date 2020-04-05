@@ -15,4 +15,4 @@ A software engineering team generator command line application. The application 
 Martin Hargett | [GitHub](https://github.com/MHargett23)  
 
 ### Screenshot
-![Screenshot](./imgs/edss.png)
+![Screenshot](./imgs/image.png)
